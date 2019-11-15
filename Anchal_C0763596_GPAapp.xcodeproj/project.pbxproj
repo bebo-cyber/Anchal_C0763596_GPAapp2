@@ -13,6 +13,7 @@
 		9B68F5F0237F596C005392E0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B68F5EE237F596C005392E0 /* Main.storyboard */; };
 		9B68F5F2237F596D005392E0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9B68F5F1237F596D005392E0 /* Assets.xcassets */; };
 		9B68F5F5237F596D005392E0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9B68F5F3237F596D005392E0 /* LaunchScreen.storyboard */; };
+		9B68F5FD237F5D76005392E0 /* StudentTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9B68F5FC237F5D76005392E0 /* StudentTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9B68F5F1237F596D005392E0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9B68F5F4237F596D005392E0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9B68F5F6237F596D005392E0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9B68F5FC237F5D76005392E0 /* StudentTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudentTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				9B68F5F1237F596D005392E0 /* Assets.xcassets */,
 				9B68F5F3237F596D005392E0 /* LaunchScreen.storyboard */,
 				9B68F5F6237F596D005392E0 /* Info.plist */,
+				9B68F5FC237F5D76005392E0 /* StudentTableViewController.swift */,
 			);
 			path = Anchal_C0763596_GPAapp;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				9B68F5ED237F596C005392E0 /* ViewController.swift in Sources */,
 				9B68F5E9237F596C005392E0 /* AppDelegate.swift in Sources */,
+				9B68F5FD237F5D76005392E0 /* StudentTableViewController.swift in Sources */,
 				9B68F5EB237F596C005392E0 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
